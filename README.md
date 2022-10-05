@@ -13,4 +13,4 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
 ### Stats:
-![](https://github-readme-stats.vercel.app/api?username=rholdos&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=rholdos&theme=default&hide_border=true&include_all_commits=true&count_private=true)
